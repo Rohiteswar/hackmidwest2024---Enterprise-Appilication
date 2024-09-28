@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,52 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# Welcome to Hack Midwest 2024!
+<br /><br />
+
+
+## Getting Started
+Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
+1. Clone this repository and rename to the name of your app or idea
+2. Make it **private**
+3. Add pr@kcitp.com as a user
+4. Populate the Team, App & Challenges info below and update as needed
+
+<br /><br />
+
+## Who's on your team?
+*List the full names,  email address & Github username of your teammates*
+
+1.   **Full Name**  || **fullname@company.com**  (or fullname@school.edu if you're a CS student) || **Github Username**
+2. 
+3.
+4.
+5.
+
+<br /><br />
+
+
+## What is the name of your App?
+
+<br /><br />
+## What does your app do?
+*Describe in a paragraph or so*
+
+<br /><br />
+
+
+## What challenges are you building for? SELECT ALL THAT APPLY
+*See hackmidwest.com/#prizes for challenge details*
+- [ ]  Pinata Challenge
+- [ ]  Pinata AI Challenge
+- [ ]  Pinata Enterprise Challenge
+- [ ]  AWS Bedrock Challenge
+- [ ]  Red Hat | Intel AI Challenge
+- [ ]  Zoom Challenge
+- [ ]  USDA Challenge
+- [ ]  brAIn Rot Challenge
+
+
+<br /><br />
+>>>>>>> f4724b90d8708a578f8df29da05a6b91248649f6
