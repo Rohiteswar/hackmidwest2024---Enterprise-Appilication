@@ -52,8 +52,8 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 ## Who's on your team?
 *List the full names,  email address & Github username of your teammates*
 
-1.   **Full Name**  || **fullname@company.com**  (or fullname@school.edu if you're a CS student) || **Github Username**
-2. 
+1.   **Rohiteswar Velagapudi**  || **rxv55970@ucmo.edu**  (or fullname@school.edu if you're a CS student) || **Rohiteswar**
+2.   **Dhileep Kumar Pagadala**  || **dxp29420@ucmo.edu**  (or fullname@school.edu if you're a CS student) || **imdhileep**
 3.
 4.
 5.
